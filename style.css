@@ -1,0 +1,207 @@
+body {
+    background-color: dodgerblue;
+    /*background-image: url("KenPhoto.jpg");
+    background-image: "KenPhoto.jpg";*/
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#Resume {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 38%;
+    top: 50%;
+    transform: translate(50%, 420%);
+}
+
+#Photos {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(280%, -500.5%);
+}
+
+#AboutMe {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-295%, -500%);
+}
+
+#TextBubble1 {
+    width: 327px;
+    height: 1060px;
+    background: lightcyan;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-186%, 7%);
+}
+
+/*#TextBubble2 {
+    width: 325px;
+    height: 280px;
+    background: lightcyan;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-187.5%, 28%);
+}
+
+#TextBubble3 {
+    width: 320px;
+    height: 370px;
+    background: lightcyan;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-191%, 98.5%);
+}
+
+#TextBubble4 {
+    width: 320px;
+    height: 150px;
+    background: lightcyan;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-191%, 493%);
+}*/
+
+#LinksBubble {
+    width: 260px;
+    height: 240px;
+    background: lightcyan;
+    border-radius: 75px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 65%);
+}
+
+#PhotosBubble {
+    width: 300px;
+    height: 700px;
+    background: lightcyan;
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 0;
+    transform: translate(100%, -24%);
+}
+
+#p1 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-190%, -70%);
+    width: 25%;
+}
+
+#p2 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-190%, 30%);
+    width: 25%;
+}
+
+#p3 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-190%, 101%);
+    width: 25%;
+}
+
+#p4 {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-190%, 547%);
+    width: 25%;
+}
+
+#Portrait {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -55%);
+}
+
+#ManhattanBeach10k {
+    border-radius: 50px;
+    width: 280px;
+    height: 380px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(110.5%, -31.5%);   
+    z-index: 1;
+}
