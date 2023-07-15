@@ -12,6 +12,8 @@ StravaButton.style.right = '20px'; */
 StravaButton.style.bottom = '20px';
 StravaButton.style.right = '700px';
 
+StravaButton.style.cursor = 'pointer';
+
 StravaButton.addEventListener('click', () => {
     window.location.href = "https://www.strava.com/athletes/12444464"
 });
@@ -38,6 +40,8 @@ LinkedinButton.style.right = '20px'; */
 LinkedinButton.style.bottom = '20px';
 LinkedinButton.style.right = '610px';
 
+LinkedinButton.style.cursor = 'pointer';
+
 LinkedinButton.addEventListener('click', () => {
     window.location.href = "https://www.linkedin.com/in/kennethwestling";
 });
@@ -63,6 +67,8 @@ InstagramButton.style.position = 'fixed';
 InstagramButton.style.right = '20px'; */
 InstagramButton.style.bottom = '20px';
 InstagramButton.style.right = '520px';
+
+InstagramButton.style.cursor = 'pointer';
 
 InstagramButton.addEventListener('click', () => {
     window.location.href = "https://www.instagram.com/in/kennethwestling";

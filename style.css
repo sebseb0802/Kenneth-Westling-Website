@@ -52,7 +52,7 @@ h1 {
     transform: translate(-295%, -500%);
 }
 
-#TextBubble1 {
+#TextBubble {
     width: 327px;
     height: 1060px;
     background: lightcyan;
@@ -62,7 +62,7 @@ h1 {
     position: absolute;
     left: 50%;
     top: 10%;
-    transform: translate(-186%, 7%);
+    transform: translate(-186%, 6%);
 }
 
 /*#TextBubble2 {
